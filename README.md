@@ -1,4 +1,4 @@
-👋 Hi I'm a first-year CE major at ucsc!
+👋 Hi I'm a second-year CE major at ucsc!
 I'm interested in:
 - Full stack web development
 - Creative and intuitive front-end design
