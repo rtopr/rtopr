@@ -4,6 +4,7 @@ I'm interested in:
 - Creative and intuitive front-end design
 - Embedded systems
 - Python, Javascript, HTML+CSS, React
+- Applied machine learning
 
 
 <!---
