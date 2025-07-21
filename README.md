@@ -1,11 +1,10 @@
-👋 Hi I'm a second-year CE major at ucsc!
-I'm interested in:
+Names Reshat Toprak, nice to meet you
+Third-year at UCSC for Robotics Engineering
+Interested in...
+- Applied ML in physical systems
 - Full stack web development
-- Creative and intuitive front-end design
 - Embedded systems
-- Python, Javascript, HTML+CSS, React
-- Applied machine learning
-
+- Signal Analysis
 
 <!---
 rtopr/rtopr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
