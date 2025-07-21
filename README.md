@@ -1,4 +1,4 @@
-Names Reshat Toprak, nice to meet you
+Names Reshat Toprak, nice to meet you!
 Third-year at UCSC for Robotics Engineering
 Interested in...
 - Applied ML in physical systems
